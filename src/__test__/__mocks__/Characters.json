@@ -1,0 +1,32 @@
+[
+	{
+		"id": "1",
+		"name": "Rick Sanchez",
+		"status": "Alive",
+		"species": "Human",
+		"gender": "Male",
+		"origin": {
+			"name": "Earth (C-137)"
+		},
+		"image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+		"location": {
+			"name": "Earth (Replacement Dimension)"
+		},
+		"created": "2017-11-04T18:48:46.250Z"
+	},
+	{
+		"id": "20",
+		"name": "Ants in my Eyes Johnson",
+		"status": "unknown",
+		"species": "Human",
+		"gender": "Male",
+		"origin": {
+			"name": "unknown"
+		},
+		"image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+		"location": {
+			"name": "Interdimensional Cable"
+		},
+		"created": "2017-11-04T22:34:53.659Z"
+	}
+]
